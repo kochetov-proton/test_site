@@ -1,0 +1,5 @@
+containers:
+  - name: nginx
+    image: my-nginx:1.0
+    ports:
+      - containerPort: 80
